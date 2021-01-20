@@ -1,0 +1,10 @@
+indexDOTjsINch3writeCode1OfHcoderREPLIT
+
+//2021 LC JavaScript tutorial practice Jan 20 Wed 0410am
+console.log(2021);
+console.log("LaunchCode was founded in", 2013);
+console.log("Some Programming Languages:");
+
+console.log("Python\nJavaScript\nJava\nC#\nSwift");
+
+
